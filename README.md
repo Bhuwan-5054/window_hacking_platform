@@ -18,9 +18,9 @@ Required Software:
 
 ## Installation
 ### Step 1: Download Required Files
-- Download and install 'VirtualBox' from the official website: [Virtual Box]([url](https://www.virtualbox.org/wiki/Downloads))
-- Obtain the 'Windows 10 Superlite Compact Ghost ISO' from a trusted source such as [Internet Archive]([url](https://archive.org/details/ghost-spectre-windows-10)).
-- Download the 'VirtualBox Guest Additions' from the official VirtualBox documentation: [Guest Additions]([url](https://www.virtualbox.org/manual/ch04.html)).
+- Download and install 'VirtualBox' from the official website: https://www.virtualbox.org/wiki/Downloads
+- Obtain the 'Windows 10 Superlite Compact Ghost ISO' from a trusted source such as : https://archive.org/details/ghost-spectre-windows-10.
+- Download the 'VirtualBox Guest Additions' from the official VirtualBox documentation: https://www.virtualbox.org/manual/ch04.html.
 - Collect all necessary ethical hacking tools and store them in a designated folder (e.g., "Lab Setup").
 
 ### Step 2: Create a Virtual Machine
