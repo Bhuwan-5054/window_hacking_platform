@@ -43,14 +43,16 @@ Required Software:
 ### Step 5: Install Ethical Hacking Tools
 All files are available above.
 Install the required tools from the shared folder, including but not limited to:
-- Python (for scripting and automation)
-- Java (for application testing)
-- MySQL (for database security testing)
-- SQL Server Management Studio (SSMS)
-- Notepad++ (for coding and scripting)
-- Web Browsers (Google Chrome, Mozilla Firefox)
+- Python (for scripting and automation) https://www.python.org/downloads/
+- Java (for application testing) https://www.java.com/download/ie_manual.jsp
+- MySQL (for database security testing) https://dev.mysql.com/downloads/installer/
+- SQL Server Management Studio (SSMS) https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+- Notepad++ (for coding and scripting) https://notepad-plus-plus.org/downloads/
+- Web Browsers (Google Chrome, Mozilla Firefox) https://www.mozilla.org/en-US/firefox/new/
 - Penetration Testing Tools (Kali tools, Wireshark, etc.)
+- 
 ## Warning
 This Platform is only for educational purpose. Please don't do any kind of ativity in public place.
+
 ## Conclusion
 By following this guide, you will have a fully functional ethical hacking lab set up on VirtualBox, allowing you to test security techniques and conduct penetration testing safely. Always use these tools responsibly and ethically.
